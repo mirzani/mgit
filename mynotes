@@ -3,4 +3,7 @@ git init
 git clone
 git checkout
 git add
-
+git revert
+git cherry-pick
+git bisect
+git commit --amend
